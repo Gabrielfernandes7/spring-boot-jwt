@@ -1,4 +1,4 @@
-package br.com.gabrielfernandes.springsecurityjwt;
+package br.com.gabrielfernandes.springsecurityjwt.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

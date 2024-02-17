@@ -1,10 +1,12 @@
-package br.com.gabrielfernandes.springsecurityjwt;
+package br.com.gabrielfernandes.springsecurityjwt.security;
 
 import java.util.Collection;
 import java.util.List;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
+
+import br.com.gabrielfernandes.springsecurityjwt.model.User;
 
 /*
     Responsável por encapsular as informações

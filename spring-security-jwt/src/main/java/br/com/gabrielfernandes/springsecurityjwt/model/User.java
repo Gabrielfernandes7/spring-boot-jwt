@@ -1,4 +1,4 @@
-package br.com.gabrielfernandes.springsecurityjwt;
+package br.com.gabrielfernandes.springsecurityjwt.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.relational.core.mapping.Table;
